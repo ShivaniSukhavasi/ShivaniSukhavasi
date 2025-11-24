@@ -6,17 +6,15 @@ Welcome to my GitHub! I manage and validate real estate datasets at scale, trans
 
 🔍 **About Me**
 
-🎓 PGDM in Finance
+🎓 PGDM in Finance.
 
-🏢 Analyst with ~2.5 years of experience in real estate data management
+🏢 Analyst with ~2.5 years of experience in real estate data management.
 
-🧹 Skilled in data validation, quality checks, and data accuracy improvement
+🧹 Skilled in data validation, quality checks, and data accuracy improvement.
 
-🧮 Currently learning and practising Python, SQL, Power BI, and Financial Modeling
+📊 Experience updating and maintaining quality of 20,000+ real estate listings daily.
 
-📊 Experience updating and maintaining quality of 20,000+ real estate listings daily
-
-🤖 Exploring AI tools and automation to speed up workflows
+🤖 Exploring AI tools and automation to speed up workflows.
 
 ⚙️ **Skills & Tools**
 
