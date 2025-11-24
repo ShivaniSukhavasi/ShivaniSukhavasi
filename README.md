@@ -1,6 +1,6 @@
-**Hi, I'm Shivani
+Hi, I'm Shivani
 
-Analyst | Real Estate Data Management | Data Quality Specialist | Finance Background**
+Analyst | Real Estate Data Management | Data Quality Specialist | Finance Background
 
 Welcome to my GitHub! I manage and validate real estate datasets at scale, transforming raw property information into accurate and actionable insights. With a strong foundation in finance and growing skills in data tools, I enjoy solving data mismatches, improving workflows, and ensuring end‑to‑end data quality.
 
