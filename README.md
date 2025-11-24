@@ -1,4 +1,4 @@
-**Hi, I'm Shivani �**�
+Hi, I'm Shivani
 
 Analyst | Real Estate Data Management | Data Quality Specialist | Finance Background
 
@@ -18,8 +18,8 @@ Welcome to my GitHub! I manage and validate real estate datasets at scale, trans
 
 ⚙️ **Skills & Tools**
 
-**SQL, Python,Power BI, Excel.
+SQL, Python,Power BI, Excel.
 
 Finance: Financial Modeling, FP&A Fundamentals, Real Estate Valuation terms.
 
-Argus Enterprise (Fund & Portfolio data workflows).**
+Argus Enterprise (Fund & Portfolio data workflows).
