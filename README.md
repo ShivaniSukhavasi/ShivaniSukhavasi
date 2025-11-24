@@ -1,0 +1,43 @@
+Hi, I'm Shivani 👋
+
+Analyst | Real Estate Data Management | Data Quality Specialist | Finance Background
+
+Welcome to my GitHub! I manage and validate real estate datasets at scale, transforming raw property information into accurate and actionable insights. With a strong foundation in finance and growing skills in data tools, I enjoy solving data mismatches, improving workflows, and ensuring end‑to‑end data quality.
+
+🔍 **About Me**
+
+🎓 PGDM in Finance
+
+🏢 Analyst with ~2.5 years of experience in real estate data management
+
+🧹 Skilled in data validation, quality checks, and data accuracy improvement
+
+🧮 Currently learning and practising Python, SQL, Power BI, and Financial Modeling
+
+📊 Experience updating and maintaining quality of 20,000+ real estate listings daily
+
+🤖 Exploring AI tools and automation to speed up workflows
+
+⚙️ **Skills & Tools**
+
+Data & Analytics
+
+SQL (queries, joins, data cleanup, transformations)
+
+Python (pandas, basic automation)
+
+Power BI (dashboards, reporting)
+
+Excel (advanced formulas, PivotTables)
+
+Finance
+
+Financial Modeling
+
+FP&A fundamentals
+
+Real Estate Valuation terms
+
+Other Tools
+
+Argus Enterprise (Fund & Portfolio data workflows).
