@@ -1,25 +1,3 @@
-Hi, I'm Shivani
+# 💫 About Me:
+Hi, I'm Shivani<br><br>Analyst | Real Estate Data Management | Data Quality Specialist | Finance Background<br><br>Welcome to my GitHub! I manage and validate real estate datasets at scale, transforming raw property information into accurate and actionable insights. With a strong foundation in finance and growing skills in data tools, I enjoy solving data mismatches, improving workflows, and ensuring end‑to‑end data quality.<br><br>🔍 About Me<br><br>🎓 PGDM in Finance.<br><br>🏢 Analyst with ~2.5 years of experience in real estate data management.<br><br>🧹 Skilled in data validation, quality checks, and data accuracy improvement.<br><br>📊 Experience updating and maintaining quality of 20,000+ real estate listings daily.<br><br>🤖 Exploring AI tools and automation to speed up workflows.<br><br>⚙️ Skills & Tools<br><br>SQL, Python,Power BI, Excel.<br><br>Finance: Financial Modeling, FP&A Fundamentals, Real Estate Valuation terms.<br><br>Argus Enterprise (Fund & Portfolio data workflows).
 
-Analyst | Real Estate Data Management | Data Quality Specialist | Finance Background
-
-Welcome to my GitHub! I manage and validate real estate datasets at scale, transforming raw property information into accurate and actionable insights. With a strong foundation in finance and growing skills in data tools, I enjoy solving data mismatches, improving workflows, and ensuring end‑to‑end data quality.
-
-🔍 **About Me**
-
-🎓 PGDM in Finance.
-
-🏢 Analyst with ~2.5 years of experience in real estate data management.
-
-🧹 Skilled in data validation, quality checks, and data accuracy improvement.
-
-📊 Experience updating and maintaining quality of 20,000+ real estate listings daily.
-
-🤖 Exploring AI tools and automation to speed up workflows.
-
-⚙️ **Skills & Tools**
-
-SQL, Python,Power BI, Excel.
-
-Finance: Financial Modeling, FP&A Fundamentals, Real Estate Valuation terms.
-
-Argus Enterprise (Fund & Portfolio data workflows).
