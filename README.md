@@ -20,8 +20,6 @@ Welcome to my GitHub! I manage and validate real estate datasets at scale, trans
 
 ⚙️ **Skills & Tools**
 
-Data & Analytics
-
 SQL, Python,Power BI, Excel.
 
 Finance: Financial Modeling, FP&A Fundamentals, Real Estate Valuation terms.
