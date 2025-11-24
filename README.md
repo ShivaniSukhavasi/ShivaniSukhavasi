@@ -22,22 +22,8 @@ Welcome to my GitHub! I manage and validate real estate datasets at scale, trans
 
 Data & Analytics
 
-SQL (queries, joins, data cleanup, transformations)
+SQL, Python,Power BI, Excel.
 
-Python (pandas, basic automation)
-
-Power BI (dashboards, reporting)
-
-Excel (advanced formulas, PivotTables)
-
-Finance
-
-Financial Modeling
-
-FP&A fundamentals
-
-Real Estate Valuation terms
-
-Other Tools
+Finance: Financial Modeling, FP&A Fundamentals, Real Estate Valuation terms.
 
 Argus Enterprise (Fund & Portfolio data workflows).
